@@ -1,0 +1,33 @@
+.items{
+   display: inline-block;
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid rgb(75, 65, 255);
+    width: 140px;
+    background-color: rgb(243, 243, 243);
+
+}
+
+p{
+    margin: 0px;
+}
+.button{
+    background-color: rgb(76, 73, 255);
+    border: 1px solid rgb(208, 208, 208);
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 5px;
+    margin: 2px;
+    font-size: 14px;
+    transition: 0.3s;
+    width: 120px;
+}
+.button:hover {
+    background-color: #3e8e41;
+    color: white;
+  }
+.wrg:hover {
+    background-color: #ff615b;
+    color: white;
+}
+
